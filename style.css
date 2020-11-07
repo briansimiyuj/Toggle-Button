@@ -40,6 +40,6 @@ body{
     margin-left: 60px;
 }
 
-.btn:focus .btn{
+.btn:focus{
     background-color: #00acee;
 } 
