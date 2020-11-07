@@ -34,3 +34,11 @@ body{
     border-radius: 50%;
     transform: translateY(-11.25%);
 }
+
+.btn:focus .inner-circle{
+    margin-left: 60px;
+}
+
+.btn:focus .btn{
+    background-color: #00acee;
+} 
