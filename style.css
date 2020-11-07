@@ -42,4 +42,5 @@ body{
 
 .btn:focus{
     background-color: #00acee;
+    outline: none;
 } 
