@@ -15,3 +15,11 @@ body{
     margin-top: 170px;   
     background-color: red;
 }
+
+.btn{
+    width: 150px;
+    height: 75px;
+    background-color: gray;
+    border-radius: 30px;
+    padding: 10px;
+}
