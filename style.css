@@ -26,3 +26,11 @@ body{
     border-radius: 30px;
     padding: 10px;
 }
+
+.inner-circle{
+    width: 70px;
+    height: 70px;
+    background-color: #fff;
+    border-radius: 50%;
+    transform: translateY(-11.25%);
+}
