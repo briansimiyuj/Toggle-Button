@@ -36,11 +36,11 @@ body{
     transform: translateY(-11.25%);
 }
 
-.btn:focus .inner-circle{
+.btn.active .inner-circle{
     margin-left: 60px;
 }
 
-.btn:focus{
+.btn.active{
     background-color: #00acee;
     outline: none;
 } 
